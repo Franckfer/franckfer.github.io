@@ -1,0 +1,562 @@
+[
+    {
+        "id": 20,
+        "product_name": "Monitor-24",
+        "description": "El monitor es compatible con todos los sistemas operativos incluido Windows 10. Es importante tener en cuenta que el sistema operativo no esta relacionado al monitor, ya que el Windows es instalado en la CPU",
+        "color": "Blanco",
+        "images": "1633137305465_img_.png",
+        "price": "10000",
+        "categoryId": 19,
+        "brand_id": 11,
+        "createdAt": "2021-10-02T01:15:05.000Z",
+        "updatedAt": "2021-10-02T01:15:05.000Z",
+        "category": {
+            "id": 19,
+            "category_name": "Monitores"
+        },
+        "brand": {
+            "id": 11,
+            "brand_name": "LG"
+        }
+    },
+    {
+        "id": 21,
+        "product_name": "AU-MDRZ150",
+        "description": "Auriculares sony con alcance inalámbrico de 10 m. La batería dura 35 h. Modo manos libres incluido. Con micrófono incorporado. Sonido superior y sin límites. Cómodos y prácticos.",
+        "color": "Negro",
+        "images": "1633137380236_img_.png",
+        "price": "8500",
+        "categoryId": 21,
+        "brand_id": 15,
+        "createdAt": "2021-10-02T01:16:20.000Z",
+        "updatedAt": "2021-11-03T21:13:37.000Z",
+        "category": {
+            "id": 21,
+            "category_name": "Audio"
+        },
+        "brand": {
+            "id": 15,
+            "brand_name": "Sony"
+        }
+    },
+    {
+        "id": 23,
+        "product_name": "Pad",
+        "description": "Pad comodo y sencillo con hermosas figuras gatunas",
+        "color": "Blanco",
+        "images": "1633137582631_img_.png",
+        "price": "3000",
+        "categoryId": 20,
+        "brand_id": 12,
+        "createdAt": "2021-10-02T01:19:42.000Z",
+        "updatedAt": "2021-11-03T20:44:43.000Z",
+        "category": {
+            "id": 20,
+            "category_name": "Otros"
+        },
+        "brand": {
+            "id": 12,
+            "brand_name": "Gigabyte"
+        }
+    },
+    {
+        "id": 24,
+        "product_name": "AX370M-GAM",
+        "description": "CPU Zócalo AMD AM4 para AMD Ryzen ™ serie 5000/4000 serie G / 3ra / 2da / 1ra generación AMD Ryzen ™ / 2da y 1ra generación AMD Ryzen ™ con gráficos Radeon ™ Vega / Athlon ™ con procesadores gráficos Radeon ™ Vega Procesadores",
+        "color": "Naranja",
+        "images": "1633137677778_img_.png",
+        "price": "8750",
+        "categoryId": 18,
+        "brand_id": 12,
+        "createdAt": "2021-10-02T01:21:17.000Z",
+        "updatedAt": "2021-10-02T01:21:17.000Z",
+        "category": {
+            "id": 18,
+            "category_name": "Motherboards"
+        },
+        "brand": {
+            "id": 12,
+            "brand_name": "Gigabyte"
+        }
+    },
+    {
+        "id": 25,
+        "product_name": "TC-RGB-100",
+        "description": "El teclado mecánico para gaming G413 ofrece rendimiento sin igual con tecnologías y funciones avanzadas. Con interruptores Romer-G™ Tactile, usados por los Profesionales de eSports en todo el mundo, el G413 Proporciona velocidad, respuesta y resistencia únicas en su género.",
+        "color": "Multicolor",
+        "images": "1633137787800_img_.png",
+        "price": "7510",
+        "categoryId": 15,
+        "brand_id": 14,
+        "createdAt": "2021-10-02T01:23:07.000Z",
+        "updatedAt": "2021-10-02T01:23:07.000Z",
+        "category": {
+            "id": 15,
+            "category_name": "Teclados"
+        },
+        "brand": {
+            "id": 14,
+            "brand_name": "Reddragon"
+        }
+    },
+    {
+        "id": 26,
+        "product_name": "S.E.O HpX",
+        "description": "HyperX sin lugar a dudas es una de las marcas más reconocidas en el mundo por la fabricación de dispositivos de audio. Su gama de auriculares se caracteriza por brindar siempre una gran experencia de uso en sus usuarios y ofrecer una alta calidad en todos los componentes de sus reproductore",
+        "color": "Multi RGb",
+        "images": "1633137895865_img_.png",
+        "price": "3500",
+        "categoryId": 16,
+        "brand_id": 17,
+        "createdAt": "2021-10-02T01:24:42.000Z",
+        "updatedAt": "2021-11-03T21:45:18.000Z",
+        "category": {
+            "id": 16,
+            "category_name": "Mouse"
+        },
+        "brand": {
+            "id": 17,
+            "brand_name": "Logitech"
+        }
+    },
+    {
+        "id": 27,
+        "product_name": "Gpu-RX580",
+        "description": "Adaptada a tus necesidades. Guardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 1 TB.Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición.Por otro lado, tiene puerto USB y salida HDMI",
+        "color": "Negro",
+        "images": "1633138003438_img_.png",
+        "price": "10000",
+        "categoryId": 17,
+        "brand_id": 15,
+        "createdAt": "2021-10-02T01:26:43.000Z",
+        "updatedAt": "2021-10-02T01:26:43.000Z",
+        "category": {
+            "id": 17,
+            "category_name": "Gpus"
+        },
+        "brand": {
+            "id": 15,
+            "brand_name": "Sony"
+        }
+    },
+    {
+        "id": 28,
+        "product_name": "AUR-520",
+        "description": "Auriculares Reddragon con alcance inalámbrico de 10 m. La batería dura 35 h. Modo manos libres incluido. Con micrófono incorporado. Sonido superior y sin límites. Cómodos y prácticos.",
+        "color": "Negro",
+        "images": "1633138683633_img_.png",
+        "price": "7900",
+        "categoryId": 20,
+        "brand_id": 14,
+        "createdAt": "2021-10-02T01:37:12.000Z",
+        "updatedAt": "2021-11-03T20:47:17.000Z",
+        "category": {
+            "id": 20,
+            "category_name": "Otros"
+        },
+        "brand": {
+            "id": 14,
+            "brand_name": "Reddragon"
+        }
+    },
+    {
+        "id": 29,
+        "product_name": "Monitor-30",
+        "description": "El monitor es compatible con todos los sistemas operativos incluido Windows 10. Es importante tener en cuenta que el sistema operativo no esta relacionado al monitor, ya que el Windows es instalado en la CPU",
+        "color": "Rojo y negro",
+        "images": "1633138823172_img_.png",
+        "price": "9500",
+        "categoryId": 19,
+        "brand_id": 11,
+        "createdAt": "2021-10-02T01:40:23.000Z",
+        "updatedAt": "2021-10-02T01:40:23.000Z",
+        "category": {
+            "id": 19,
+            "category_name": "Monitores"
+        },
+        "brand": {
+            "id": 11,
+            "brand_name": "LG"
+        }
+    },
+    {
+        "id": 32,
+        "product_name": "Mother-LH27",
+        "description": "un mother con muchos colores y entradas de usb",
+        "color": "Violeta",
+        "images": "1633826854683_img_.png",
+        "price": "6820",
+        "categoryId": 18,
+        "brand_id": 17,
+        "createdAt": "2021-10-10T00:47:34.000Z",
+        "updatedAt": "2021-10-10T00:47:34.000Z",
+        "category": {
+            "id": 18,
+            "category_name": "Motherboards"
+        },
+        "brand": {
+            "id": 17,
+            "brand_name": "Logitech"
+        }
+    },
+    {
+        "id": 33,
+        "product_name": "Mon-Log20",
+        "description": "El monitor es compatible con todos los sistemas operativos incluido Windows 10. Es importante tener en cuenta que el sistema operativo no esta relacionado al monitor, ya que el Windows es instalado en la CPU",
+        "color": "Negro",
+        "images": "1634906927235_img_.png",
+        "price": "95",
+        "categoryId": 19,
+        "brand_id": 10,
+        "createdAt": "2021-10-10T00:49:21.000Z",
+        "updatedAt": "2021-11-03T20:45:07.000Z",
+        "category": {
+            "id": 19,
+            "category_name": "Monitores"
+        },
+        "brand": {
+            "id": 10,
+            "brand_name": "HyperX"
+        }
+    },
+    {
+        "id": 34,
+        "product_name": "Au-LogRX",
+        "description": "Auriculares Logitech con alcance inalámbrico de 10 m. La batería dura 35 h. Modo manos libres incluido. Con micrófono incorporado. Sonido superior y sin límites. Cómodos y prácticos",
+        "color": "Verde",
+        "images": "1633827094900_img_.png",
+        "price": "3200",
+        "categoryId": 21,
+        "brand_id": 12,
+        "createdAt": "2021-10-10T00:51:34.000Z",
+        "updatedAt": "2021-11-03T21:14:19.000Z",
+        "category": {
+            "id": 21,
+            "category_name": "Audio"
+        },
+        "brand": {
+            "id": 12,
+            "brand_name": "Gigabyte"
+        }
+    },
+    {
+        "id": 48,
+        "product_name": "Joystick PS4",
+        "description": "Con tu Joystick PlayStation 4 tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos",
+        "color": "Rojo",
+        "images": "1635973000919_img_.png",
+        "price": "9899",
+        "categoryId": 22,
+        "brand_id": 15,
+        "createdAt": "2021-11-03T20:53:35.000Z",
+        "updatedAt": "2021-11-03T20:59:19.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 15,
+            "brand_name": "Sony"
+        }
+    },
+    {
+        "id": 50,
+        "product_name": "Playstation 4",
+        "description": "Con tu Joystick PlayStation 4 tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos",
+        "color": "Negro",
+        "images": "1635973222156_img_.png",
+        "price": "10500",
+        "categoryId": 22,
+        "brand_id": 15,
+        "createdAt": "2021-11-03T21:00:22.000Z",
+        "updatedAt": "2021-11-03T21:00:22.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 15,
+            "brand_name": "Sony"
+        }
+    },
+    {
+        "id": 51,
+        "product_name": "Playstation 1",
+        "description": "Con tu consola PlayStation Classic tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.",
+        "color": "Gris",
+        "images": "1635973275086_img_.png",
+        "price": "5700",
+        "categoryId": 22,
+        "brand_id": 15,
+        "createdAt": "2021-11-03T21:01:15.000Z",
+        "updatedAt": "2021-11-03T21:01:15.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 15,
+            "brand_name": "Sony"
+        }
+    },
+    {
+        "id": 52,
+        "product_name": "Ninte-Switch",
+        "description": "Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online.",
+        "color": "RGB",
+        "images": "1635973513326_img_.png",
+        "price": "11600",
+        "categoryId": 22,
+        "brand_id": 16,
+        "createdAt": "2021-11-03T21:04:44.000Z",
+        "updatedAt": "2021-11-03T21:05:13.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 16,
+            "brand_name": "Nintendo"
+        }
+    },
+    {
+        "id": 53,
+        "product_name": "Nintendo 3DS",
+        "description": "Nintendo 3DS se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online.",
+        "color": "Negro",
+        "images": "1635973762898_img_.png",
+        "price": "7600",
+        "categoryId": 22,
+        "brand_id": 16,
+        "createdAt": "2021-11-03T21:09:22.000Z",
+        "updatedAt": "2021-11-03T21:09:22.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 16,
+            "brand_name": "Nintendo"
+        }
+    },
+    {
+        "id": 54,
+        "product_name": "Nintendo Gamecube",
+        "description": "Nintendo Gamecube se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online.",
+        "color": "Violeta",
+        "images": "1635973828980_img_.png",
+        "price": "13500",
+        "categoryId": 22,
+        "brand_id": 16,
+        "createdAt": "2021-11-03T21:10:29.000Z",
+        "updatedAt": "2021-11-03T21:12:33.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 16,
+            "brand_name": "Nintendo"
+        }
+    },
+    {
+        "id": 55,
+        "product_name": "Nintendo Wii",
+        "description": "Nintendo WII se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online.",
+        "color": "blanco",
+        "images": "1635973884386_img_.png",
+        "price": "25000",
+        "categoryId": 22,
+        "brand_id": 16,
+        "createdAt": "2021-11-03T21:11:24.000Z",
+        "updatedAt": "2021-11-03T21:11:24.000Z",
+        "category": {
+            "id": 22,
+            "category_name": "Gaming"
+        },
+        "brand": {
+            "id": 16,
+            "brand_name": "Nintendo"
+        }
+    },
+    {
+        "id": 56,
+        "product_name": "Au-LogRX",
+        "description": "Auriculares Logitech con alcance inalámbrico de 10 m. La batería dura 35 h. Modo manos libres incluido. Con micrófono incorporado. Sonido superior y sin límites. Cómodos y prácticos",
+        "color": "Azul y Negro",
+        "images": "1635974177000_img_.png",
+        "price": "9600",
+        "categoryId": 21,
+        "brand_id": 17,
+        "createdAt": "2021-11-03T21:16:17.000Z",
+        "updatedAt": "2021-11-03T21:16:17.000Z",
+        "category": {
+            "id": 21,
+            "category_name": "Audio"
+        },
+        "brand": {
+            "id": 17,
+            "brand_name": "Logitech"
+        }
+    },
+    {
+        "id": 57,
+        "product_name": "Micrófono ZW-850",
+        "description": "El Micrófono condensador QuadCast de HyperX ZW-850 es unos de los mejores micrófonos gamer en el área y perfectamente compatible con PC, Mac y PS4. Tiene una calidad inmensa tanto de especificaciones como de construcción.",
+        "color": "Gris",
+        "images": "1635974464480_img_.png",
+        "price": "27500",
+        "categoryId": 21,
+        "brand_id": 10,
+        "createdAt": "2021-11-03T21:21:04.000Z",
+        "updatedAt": "2021-11-03T21:21:04.000Z",
+        "category": {
+            "id": 21,
+            "category_name": "Audio"
+        },
+        "brand": {
+            "id": 10,
+            "brand_name": "HyperX"
+        }
+    },
+    {
+        "id": 58,
+        "product_name": "AU-Beats 220",
+        "description": "Auriculares Reddragon con alcance inalámbrico de 10 m. La batería dura 35 h. Modo manos libres incluido. Con micrófono incorporado. Sonido superior y sin límites. Cómodos y prácticos",
+        "color": "Rojo",
+        "images": "1635974585248_img_.png",
+        "price": "13050",
+        "categoryId": 21,
+        "brand_id": 14,
+        "createdAt": "2021-11-03T21:23:05.000Z",
+        "updatedAt": "2021-11-03T21:23:05.000Z",
+        "category": {
+            "id": 21,
+            "category_name": "Audio"
+        },
+        "brand": {
+            "id": 14,
+            "brand_name": "Reddragon"
+        }
+    },
+    {
+        "id": 59,
+        "product_name": "Monitor HyperX24",
+        "description": "El monitor es compatible con todos los sistemas operativos incluido Windows 10. Es importante tener en cuenta que el sistema operativo no esta relacionado al monitor, ya que el Windows es instalado en la CPU",
+        "color": "RGB",
+        "images": "1635974841760_img_.png",
+        "price": "15070",
+        "categoryId": 19,
+        "brand_id": 10,
+        "createdAt": "2021-11-03T21:27:21.000Z",
+        "updatedAt": "2021-11-03T21:28:12.000Z",
+        "category": {
+            "id": 19,
+            "category_name": "Monitores"
+        },
+        "brand": {
+            "id": 10,
+            "brand_name": "HyperX"
+        }
+    },
+    {
+        "id": 60,
+        "product_name": "Tec-540rx",
+        "description": "El teclado mecánico para gaming Tec-540rx ofrece rendimiento sin igual con tecnologías y funciones avanzadas. Con interruptores Romer-G™ Tactile, usados por los Profesionales de eSports en todo el mundo, el G413 Proporciona velocidad, respuesta y resistencia únicas en su género.",
+        "color": "RGB",
+        "images": "1635975223914_img_.png",
+        "price": "13200",
+        "categoryId": 15,
+        "brand_id": 14,
+        "createdAt": "2021-11-03T21:33:13.000Z",
+        "updatedAt": "2021-11-03T21:33:43.000Z",
+        "category": {
+            "id": 15,
+            "category_name": "Teclados"
+        },
+        "brand": {
+            "id": 14,
+            "brand_name": "Reddragon"
+        }
+    },
+    {
+        "id": 61,
+        "product_name": "Teclado Genius DG-850",
+        "description": "El teclado mecánico para gaming DG-850 ofrece rendimiento sin igual con tecnologías y funciones avanzadas. Con interruptores Romer-G™ Tactile, usados por los Profesionales de eSports en todo el mundo, el G413 Proporciona velocidad, respuesta y resistencia únicas en su género.",
+        "color": "RGB",
+        "images": "1635975390930_img_.png",
+        "price": "10500",
+        "categoryId": 15,
+        "brand_id": 13,
+        "createdAt": "2021-11-03T21:36:30.000Z",
+        "updatedAt": "2021-11-03T21:36:30.000Z",
+        "category": {
+            "id": 15,
+            "category_name": "Teclados"
+        },
+        "brand": {
+            "id": 13,
+            "brand_name": "Genius"
+        }
+    },
+    {
+        "id": 62,
+        "product_name": "Teclado DZ-150",
+        "description": "El teclado mecánico para gaming DZ-150 ofrece rendimiento sin igual con tecnologías y funciones avanzadas. Con interruptores Romer-G™ Tactile, usados por los Profesionales de eSports en todo el mundo, el G413 Proporciona velocidad, respuesta y resistencia únicas en su género.",
+        "color": "Negro",
+        "images": "1635975620866_img_.png",
+        "price": "45000",
+        "categoryId": 15,
+        "brand_id": 17,
+        "createdAt": "2021-11-03T21:40:20.000Z",
+        "updatedAt": "2021-11-03T21:40:20.000Z",
+        "category": {
+            "id": 15,
+            "category_name": "Teclados"
+        },
+        "brand": {
+            "id": 17,
+            "brand_name": "Logitech"
+        }
+    },
+    {
+        "id": 63,
+        "product_name": "Mouse RGB-Cougar",
+        "description": "MOUSE INALÁMBRICO G305 K/DA LIGHTSPEED PARA JUEGOS Logitech G305 K/DA LIGHTSPEED Ratón inalámbrico para Gaming • Juega a tope: el ratón para gaming G305 K/DA está diseñado con el arte oficial del universo alternativo de League of Legends K/DA para una experiencia de juego completa y envolvente. • La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades en: US, CA, CN, JP, KR, TW, TH, IN, DE, FR, RU, UK, SE, TR.",
+        "color": "Verde",
+        "images": "1635975825434_img_.png",
+        "price": "9800",
+        "categoryId": 16,
+        "brand_id": 12,
+        "createdAt": "2021-11-03T21:43:45.000Z",
+        "updatedAt": "2021-11-03T21:43:45.000Z",
+        "category": {
+            "id": 16,
+            "category_name": "Mouse"
+        },
+        "brand": {
+            "id": 12,
+            "brand_name": "Gigabyte"
+        }
+    },
+    {
+        "id": 64,
+        "product_name": "Mouse RedGXT",
+        "description": "MOUSE INALÁMBRICO RedGXT /DA LIGHTSPEED PARA JUEGOS Logitech G305 K/DA LIGHTSPEED Ratón inalámbrico para Gaming • Juega a tope: el ratón para gaming G305 K/DA está diseñado con el arte oficial del universo alternativo de League of Legends K/DA para una experiencia de juego completa y envolvente. • La marca de accesorios inalámbricos para gaming más vendida del mundo - Basado en datos de ventas agregados independientes (febr. 2019 - febr. 2020) de teclados, ratones y auriculares para PC gaming inalámbricos en unidades en: US, CA, CN, JP, KR, TW, TH, IN, DE, FR, RU, UK, SE, TR.",
+        "color": "RGB",
+        "images": "1635975984878_img_.png",
+        "price": "8000",
+        "categoryId": 16,
+        "brand_id": 10,
+        "createdAt": "2021-11-03T21:46:24.000Z",
+        "updatedAt": "2021-11-03T21:46:24.000Z",
+        "category": {
+            "id": 16,
+            "category_name": "Mouse"
+        },
+        "brand": {
+            "id": 10,
+            "brand_name": "HyperX"
+        }
+    }
+]
