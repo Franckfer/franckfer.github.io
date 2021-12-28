@@ -1,0 +1,246 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "oblivion (2012)",
+            "rate": 8.1,
+            "director": "Joss Whedon",
+            "actors": "Robert Downey Jr., Chris Evans, Chris Hemsworth",
+            "date": "1 May 2015",
+            "length": "2h21’",
+            "img": "images/uploads/mv1.jpg",
+            "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+        },
+        {
+            "id": 2,
+            "title": "into the wild (2014)",
+            "rate": 7.8,
+            "director": "Anthony Russo,Joe Russo",
+            "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv2.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 3,
+            "title": "blade runner (2015)",
+            "rate": 7.3,
+            "director": "Peyton Reed",
+            "actors": " Paul Rudd, Michael Douglas",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv3.jpg",
+            "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+        },
+        {
+            "id": 4,
+            "title": "MULHOLLAND PRIDE (2013)",
+            "rate": 7.8,
+            "director": "Shane Black",
+            "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+            "date": "1 May 2020",
+            "length": "2h50’",
+            "img": "images/uploads/mv4.jpg",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        },
+        {
+            "id": 5,
+            "title": "skifall: evil of boss (2019)",
+            "rate": 8.7,
+            "director": "Alan Taylor",
+            "actors": "Chris Hemsworth, Natalie Portman,Tom Hiddleston",
+            "date": "1 May 2002",
+            "length": "2h50’",
+            "img": "images/uploads/mv5.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 6,
+            "title": "into the wild (2014)",
+            "rate": 7.8,
+            "director": "Anthony Russo,Joe Russo",
+            "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv2.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 7,
+            "title": "blade runner (2015)",
+            "rate": 7.3,
+            "director": "Peyton Reed",
+            "actors": " Paul Rudd, Michael Douglas",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv3.jpg",
+            "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+        },
+        {
+            "id": 8,
+            "title": "MULHOLLAND PRIDE (2013)",
+            "rate": 7.8,
+            "director": "Shane Black",
+            "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+            "date": "1 May 2020",
+            "length": "2h50’",
+            "img": "images/uploads/mv4.jpg",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        },
+        {
+            "id": 9,
+            "title": "skifall: evil of boss (2019)",
+            "rate": 8.7,
+            "director": "Alan Taylor",
+            "actors": "Chris Hemsworth, Natalie Portman,Tom Hiddleston",
+            "date": "1 May 2002",
+            "length": "2h50’",
+            "img": "images/uploads/mv5.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 10,
+            "title": "blade runner (2015)",
+            "rate": 7.3,
+            "director": "Peyton Reed",
+            "actors": " Paul Rudd, Michael Douglas",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv3.jpg",
+            "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+        },
+        {
+            "id": 11,
+            "title": "MULHOLLAND PRIDE (2013)",
+            "rate": 7.8,
+            "director": "Shane Black",
+            "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+            "date": "1 May 2020",
+            "length": "2h50’",
+            "img": "images/uploads/mv4.jpg",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        },
+        {
+            "id": 12,
+            "title": "oblivion (2012)",
+            "rate": 8.1,
+            "director": "Joss Whedon",
+            "actors": "Robert Downey Jr., Chris Evans, Chris Hemsworth",
+            "date": "1 May 2015",
+            "length": "2h21’",
+            "img": "images/uploads/mv1.jpg",
+            "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity..."
+        },
+        {
+            "id": 13,
+            "title": "into the wild (2014)",
+            "rate": 7.8,
+            "director": "Anthony Russo,Joe Russo",
+            "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv2.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 14,
+            "title": "blade runner (2015)",
+            "rate": 7.3,
+            "director": "Peyton Reed",
+            "actors": " Paul Rudd, Michael Douglas",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv3.jpg",
+            "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+        },
+        {
+            "id": 15,
+            "title": "MULHOLLAND PRIDE (2013)",
+            "rate": 7.8,
+            "director": "Shane Black",
+            "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+            "date": "1 May 2020",
+            "length": "2h50’",
+            "img": "images/uploads/mv4.jpg",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        },
+        {
+            "id": 16,
+            "title": "skifall: evil of boss (2019)",
+            "rate": 8.7,
+            "director": "Alan Taylor",
+            "actors": "Chris Hemsworth, Natalie Portman,Tom Hiddleston",
+            "date": "1 May 2002",
+            "length": "2h50’",
+            "img": "images/uploads/mv5.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 17,
+            "title": "into the wild (2014)",
+            "rate": 7.8,
+            "director": "Anthony Russo,Joe Russo",
+            "actors": "Chris Evans, Samuel L. Jackson, Scarlett Johansson",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv2.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 18,
+            "title": "blade runner (2015)",
+            "rate": 7.3,
+            "director": "Peyton Reed",
+            "actors": " Paul Rudd, Michael Douglas",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv3.jpg",
+            "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+        },
+        {
+            "id": 19,
+            "title": "MULHOLLAND PRIDE (2013)",
+            "rate": 7.8,
+            "director": "Shane Black",
+            "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+            "date": "1 May 2020",
+            "length": "2h50’",
+            "img": "images/uploads/mv4.jpg",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        },
+        {
+            "id": 20,
+            "title": "skifall: evil of boss (2019)",
+            "rate": 8.7,
+            "director": "Alan Taylor",
+            "actors": "Chris Hemsworth, Natalie Portman,Tom Hiddleston",
+            "date": "1 May 2002",
+            "length": "2h50’",
+            "img": "images/uploads/mv5.jpg",
+            "description": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat..."
+        },
+        {
+            "id": 21,
+            "title": "blade runner (2015)",
+            "rate": 7.3,
+            "director": "Peyton Reed",
+            "actors": " Paul Rudd, Michael Douglas",
+            "date": "1 May 2015",
+            "length": "2h50’",
+            "img": "images/uploads/mv3.jpg",
+            "description": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help..."
+        },
+        {
+            "id": 22,
+            "title": "MULHOLLAND PRIDE (2013)",
+            "rate": 7.8,
+            "director": "Shane Black",
+            "actors": "Robert Downey Jr., Guy Pearce,Don Cheadle",
+            "date": "1 May 2020",
+            "length": "2h50’",
+            "img": "images/uploads/mv4.jpg",
+            "description": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution."
+        }
+    ]
+}
